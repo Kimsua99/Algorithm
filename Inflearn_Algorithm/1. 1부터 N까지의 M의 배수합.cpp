@@ -10,7 +10,7 @@ int main()
 	
 	for(int i=1; i<=n; i++)
 	{
-		if(i % m == 0)//m이 i의 
+		if(i % m == 0)//m이 i의 배수이면
 		{
 			sum += i; 
 		}
