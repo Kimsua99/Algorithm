@@ -10,7 +10,7 @@ int main()
 	
 	for(int i=1; i<=n; i++)
 	{
-		if(i % m == 0)//mÀÌ iÀÇ ¹è¼öÀÌ¸é 
+		if(i % m == 0)//mì´ iì˜ 
 		{
 			sum += i; 
 		}
