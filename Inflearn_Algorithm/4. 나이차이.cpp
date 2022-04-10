@@ -15,7 +15,7 @@ int main()
 		if (a > max) max = a;
 		if (a < min) min = a;
 	}
-
+	
 	cout << max - min;
 	return 0;
 }
