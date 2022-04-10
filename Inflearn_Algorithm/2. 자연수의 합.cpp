@@ -16,5 +16,6 @@ int main()
 	cout << b << "=";
 	cout << sum + b;
 
+	
 	return 0;
 }
